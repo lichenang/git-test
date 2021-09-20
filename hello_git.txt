@@ -1,7 +1,8 @@
 第一次使用Git Hello Git
 
- 学习Git的使用，
+学习Git的使用，
 
- 我在master分支上修改了文件内容
+我在master分支上修改了文件内容
 我是从hot-fix分支上添加的内容
 
+Github上面手动修改的代码。OK
