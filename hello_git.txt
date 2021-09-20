@@ -6,3 +6,5 @@
 我是从hot-fix分支上添加的内容
 
 Github上面手动修改的代码。OK
+
+git_repository_liang 克隆后，再次提交内容
